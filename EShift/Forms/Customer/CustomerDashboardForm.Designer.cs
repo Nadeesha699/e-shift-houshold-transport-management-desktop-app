@@ -266,7 +266,7 @@
             this.txtCustomerName.AutoSize = true;
             this.txtCustomerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCustomerName.ForeColor = System.Drawing.Color.Navy;
-            this.txtCustomerName.Location = new System.Drawing.Point(465, 101);
+            this.txtCustomerName.Location = new System.Drawing.Point(518, 101);
             this.txtCustomerName.Name = "txtCustomerName";
             this.txtCustomerName.Size = new System.Drawing.Size(248, 29);
             this.txtCustomerName.TabIndex = 51;

@@ -142,7 +142,7 @@
             this.btn_add.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_add.IconSize = 24;
             this.btn_add.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_add.Location = new System.Drawing.Point(329, 102);
+            this.btn_add.Location = new System.Drawing.Point(329, 111);
             this.btn_add.Name = "btn_add";
             this.btn_add.Padding = new System.Windows.Forms.Padding(5);
             this.btn_add.Size = new System.Drawing.Size(324, 86);
@@ -164,7 +164,7 @@
             this.btn_edit.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_edit.IconSize = 24;
             this.btn_edit.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_edit.Location = new System.Drawing.Point(672, 102);
+            this.btn_edit.Location = new System.Drawing.Point(672, 111);
             this.btn_edit.Name = "btn_edit";
             this.btn_edit.Padding = new System.Windows.Forms.Padding(5);
             this.btn_edit.Size = new System.Drawing.Size(329, 86);
@@ -186,7 +186,7 @@
             this.btn_toggle.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_toggle.IconSize = 24;
             this.btn_toggle.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_toggle.Location = new System.Drawing.Point(1022, 102);
+            this.btn_toggle.Location = new System.Drawing.Point(1022, 111);
             this.btn_toggle.Name = "btn_toggle";
             this.btn_toggle.Padding = new System.Windows.Forms.Padding(5);
             this.btn_toggle.Size = new System.Drawing.Size(320, 86);
@@ -203,10 +203,10 @@
             this.label1.ForeColor = System.Drawing.Color.Gray;
             this.label1.Location = new System.Drawing.Point(325, 54);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(939, 20);
+            this.label1.Size = new System.Drawing.Size(772, 40);
             this.label1.TabIndex = 39;
             this.label1.Text = "Add, view, edit, and manage vehicles used to transport customers’ household goods" +
-    " during shifting operations.";
+    " during\r\n shifting operations.";
             // 
             // panel1
             // 

@@ -204,10 +204,9 @@
             this.label1.ForeColor = System.Drawing.Color.Gray;
             this.label1.Location = new System.Drawing.Point(321, 50);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(872, 20);
+            this.label1.Size = new System.Drawing.Size(383, 20);
             this.label1.TabIndex = 39;
-            this.label1.Text = "Add, view, edit, and manage driver information, driving licences, and availabilit" +
-    "y for shifting operations.";
+            this.label1.Text = "Manage and Track Customer Transport Jobs";
             // 
             // btn_updateStatus
             // 

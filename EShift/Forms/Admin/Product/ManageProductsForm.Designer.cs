@@ -142,12 +142,12 @@
             this.btn_add.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_add.IconSize = 24;
             this.btn_add.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_add.Location = new System.Drawing.Point(329, 102);
+            this.btn_add.Location = new System.Drawing.Point(329, 110);
             this.btn_add.Name = "btn_add";
             this.btn_add.Padding = new System.Windows.Forms.Padding(5);
             this.btn_add.Size = new System.Drawing.Size(329, 76);
             this.btn_add.TabIndex = 36;
-            this.btn_add.Text = "Add User";
+            this.btn_add.Text = "Add Product";
             this.btn_add.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_add.UseVisualStyleBackColor = false;
             this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
@@ -164,12 +164,12 @@
             this.btn_edit.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_edit.IconSize = 24;
             this.btn_edit.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_edit.Location = new System.Drawing.Point(678, 102);
+            this.btn_edit.Location = new System.Drawing.Point(678, 110);
             this.btn_edit.Name = "btn_edit";
             this.btn_edit.Padding = new System.Windows.Forms.Padding(5);
             this.btn_edit.Size = new System.Drawing.Size(343, 76);
             this.btn_edit.TabIndex = 37;
-            this.btn_edit.Text = "Edit User";
+            this.btn_edit.Text = "Edit Product";
             this.btn_edit.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_edit.UseVisualStyleBackColor = false;
             this.btn_edit.Click += new System.EventHandler(this.btn_edit_Click);
@@ -186,7 +186,7 @@
             this.btn_toggle.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btn_toggle.IconSize = 24;
             this.btn_toggle.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_toggle.Location = new System.Drawing.Point(1041, 102);
+            this.btn_toggle.Location = new System.Drawing.Point(1041, 110);
             this.btn_toggle.Name = "btn_toggle";
             this.btn_toggle.Padding = new System.Windows.Forms.Padding(5);
             this.btn_toggle.Size = new System.Drawing.Size(308, 76);
@@ -203,10 +203,10 @@
             this.label1.ForeColor = System.Drawing.Color.Gray;
             this.label1.Location = new System.Drawing.Point(325, 51);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(856, 20);
+            this.label1.Size = new System.Drawing.Size(709, 40);
             this.label1.TabIndex = 39;
             this.label1.Text = "Add, view, edit, and manage the household goods and items available for customer " +
-    "shifting bookings.";
+    "\r\nshifting bookings.";
             // 
             // panel1
             // 

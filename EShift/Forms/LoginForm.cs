@@ -133,13 +133,12 @@ namespace EShift
                         return;
                     }
 
-                    // Step 5: Save login account information
                     SessionManager.UserID = userId;
                     SessionManager.FullName = fullName;
                     SessionManager.Email = storedEmail;
                     SessionManager.Role = role;
 
-                    // Clear any previous customer's ID
+                    // Clear previous customer ID
                     SessionManager.CustomerID = 0;
 
                   
