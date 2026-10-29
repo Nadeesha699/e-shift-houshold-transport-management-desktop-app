@@ -125,7 +125,7 @@
             // iconPictureBox1
             // 
             this.iconPictureBox1.BackColor = System.Drawing.Color.Indigo;
-            this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.UserGroup;
+            this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.ClipboardList;
             this.iconPictureBox1.IconColor = System.Drawing.Color.White;
             this.iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconPictureBox1.Location = new System.Drawing.Point(14, 17);
@@ -160,7 +160,7 @@
             // 
             this.iconPictureBox3.BackColor = System.Drawing.Color.Transparent;
             this.iconPictureBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.iconPictureBox3.IconChar = FontAwesome.Sharp.IconChar.UserGroup;
+            this.iconPictureBox3.IconChar = FontAwesome.Sharp.IconChar.ClipboardList;
             this.iconPictureBox3.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.iconPictureBox3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconPictureBox3.Location = new System.Drawing.Point(14, 17);
@@ -205,7 +205,7 @@
             // iconPictureBox4
             // 
             this.iconPictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.iconPictureBox4.IconChar = FontAwesome.Sharp.IconChar.UserGroup;
+            this.iconPictureBox4.IconChar = FontAwesome.Sharp.IconChar.ClipboardList;
             this.iconPictureBox4.IconColor = System.Drawing.Color.White;
             this.iconPictureBox4.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconPictureBox4.Location = new System.Drawing.Point(14, 17);
@@ -402,7 +402,7 @@
             // iconPictureBox2
             // 
             this.iconPictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.iconPictureBox2.IconChar = FontAwesome.Sharp.IconChar.UserGroup;
+            this.iconPictureBox2.IconChar = FontAwesome.Sharp.IconChar.ClipboardList;
             this.iconPictureBox2.IconColor = System.Drawing.Color.White;
             this.iconPictureBox2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconPictureBox2.Location = new System.Drawing.Point(14, 17);

@@ -193,20 +193,6 @@ namespace EShift.Forms
                 reason = popup.DeclineReason;
             }
 
-            if (string.IsNullOrWhiteSpace(reason))
-            {
-                MessageHelper.ShowError(
-                    "A reason is required to decline a job.");
-                return;
-            }
-
-            if (reason.Trim().Length > 500)
-            {
-                MessageHelper.ShowError(
-                    "The decline reason cannot exceed 500 characters.");
-                return;
-            }
-
             DialogResult result = MessageBox.Show(
                 "Are you sure you want to decline this job?",
                 "Confirm Decline",
